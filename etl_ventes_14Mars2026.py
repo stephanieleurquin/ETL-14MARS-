@@ -9,7 +9,7 @@ ventes = [
     {'produit': 'ordinateur', 'quantite': 2},
     {'produit': 'souris', 'quantite': 5},
     {'produit': 'clavier', 'quantite': 3},
-    {'produit': 'ordinateur', 'quantite': 1},bo ,;gùoj,
+    {'produit': 'ordinateur', 'quantite': 1},
     {'produit': 'souris', 'quantite': 2},
     {'produit': 'webcam', 'quantite': 4},
 ]
